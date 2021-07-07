@@ -55,3 +55,5 @@ jobs:
           METHOD: "${{ github.event.inputs.ftpMethod }}"
           PORT: "${{ github.event.inputs.ftpPort }}"
           ARGS: --include-glob=*.exe
+          
+          this code not wroking when press butto 
